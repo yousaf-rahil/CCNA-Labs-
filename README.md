@@ -31,6 +31,13 @@
 Handwritten and digital notes are included in the /Notes folder
 covering key CCNA concepts for each topic area.
 
+
+<img width="1366" height="768" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/70daaeb9-be96-4aec-bff4-eb035fb5dc1a" />
+<img width="1366" height="768" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/bfd11723-db98-4f69-9913-3d81a2293fcf" />
+<img width="1366" height="768" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/826f7ec0-5b6a-45be-bd78-8e2f594ba157" />
+<img width="1366" height="768" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/defd5a0c-be93-4276-b5db-7ee108b5a6d7" />
+
+
 ---
 
 ## 🎯 Goal
